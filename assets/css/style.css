@@ -1,0 +1,67 @@
+body{
+	line-height: : 50px;
+	background-image: url("../images/gaming.png");
+}
+
+#title {
+	text-align:center;
+	color: red;
+}
+#start {
+	margin-left: 700px;
+	width:150px;
+	height: 50px;
+	margin-top: 50px;
+}
+
+
+	
+#timer{
+	font-size: 65px;
+	text-align: center;
+}
+
+#quiz-area {
+	font-size: 20px;
+	margin-left: 30px;
+	margin-right: 30px;
+	margin-top: 50px;
+	line-height:50px;
+}
+
+
+#done {
+	margin-left: 700px;
+	width:150px;
+	height: 50px;
+	margin-top: 50px;
+	color: red;
+	font-size:24px;
+}
+
+.snoopy {
+	margin-left:510px;
+	margin-top:20
+}
+
+.container {
+background-color:#f2f2f2;
+width:
+}
+
+
+@media screen and (max-width: 640px){
+	header {
+    position: static;
+  }
+
+  .snoopy {
+  	 width: 100%;
+    margin-left: 0%;
+  }
+
+
+
+
+
+
